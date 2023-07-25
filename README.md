@@ -10,3 +10,5 @@
 Strictly forbidden to use in multiplayer game!
 Leaked 'gold hack', published only for antihack developers!
 
+
+Инструкция не прилагается. 
